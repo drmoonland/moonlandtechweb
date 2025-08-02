@@ -1,0 +1,19 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "MoonlandTech",
+  "url": "https://moonlandtech.com",
+  "logo": "https://moonlandtech.com/img/logo_2.jpg",
+  "description": "MoonlandTech is a software and game development company specializing in Android apps, games, web applications, and desktop software solutions.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "New York",
+    "addressCountry": "US"
+  },
+  "email": "moonland.tech@gmail.com",
+  "sameAs": [
+    "https://www.facebook.com/moonlandtech",
+    "https://twitter.com/moonlandtech",
+    "https://www.linkedin.com/company/moonlandtech"
+  ]
+}
